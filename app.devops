@@ -15,6 +15,20 @@ public class Method
         int c = a * b;
         System.out.println("Result:"+c);
     }
+	# feature sqad 02 changes by nishanth 05-03-2025
+	class Main {
+
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
+}
+end of the sqad02
     void division(int a,int b)
     {
         double c =(double)a / b;
